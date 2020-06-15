@@ -1,2 +1,2 @@
-# Lindas-H-star
+# Linda's Horses
 A website for horses
