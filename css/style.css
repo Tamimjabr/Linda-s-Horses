@@ -43,7 +43,7 @@ body{
 }
 /*styling the icon beside the Menu word*/
 #menu > i{
-    padding: 10px;
+    padding: 5px;
 
 }
 .sideNav{
@@ -201,42 +201,6 @@ word-break: keep-all;
     margin-bottom: 8px;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /*footer*/
 .contact{
     width: 80%;
@@ -293,8 +257,10 @@ word-break: keep-all;
     }
     .article{
         padding: 20px;
+        font-size: 16px;
+            
     }
-   
+    
     
 }
 @media screen and (max-height: 450px) {
